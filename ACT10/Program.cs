@@ -5,7 +5,7 @@ namespace ACT10
     {
         public void Main(string[] args)
         {
-         
+
 
         }
     }
